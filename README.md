@@ -4,11 +4,10 @@
 
 ## 索引:
 
->>[MultiModalityPaperList&VideoList](https://github.com/big-ai-001/paperList#multimodalitypaperlistvideolist)
-
->>[CV Corosa](https://github.com/big-ai-001/paperList#cv-corosa)
-
->>[社群&分享者](https://github.com/big-ai-001/paperList#社群分享者)
+>>[MultiModalityPaperList&VideoList](https://github.com/big-ai-001/paperList#multimodalitypaperlistvideolist)  
+>>[CV Corosa](https://github.com/big-ai-001/paperList#cv-corosa)  
+>>[社群&分享者](https://github.com/big-ai-001/paperList#社群分享者)  
+>>[Top publications](https://github.com/big-ai-001/paperList#Top-publications)  
 
 ## MultiModalityPaperList&[VideoList](https://www.youtube.com/playlist?list=PLmSTDGeuJBLRByDQSOypw_8qQTjeAde5z)
 
@@ -46,4 +45,9 @@
 | [蘇劍林](https://kexue.fm/) | 有料(NLP、CV、數學&物理皆在其防守範圍) |
 | [李沐](https://github.com/mli/paper-reading) | 論文講解 |
 
+## Top publications
+
+[CV](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)  
+[NLP](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computationallinguistics)  
+[Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)  
 
