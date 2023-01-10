@@ -8,7 +8,7 @@
 
 >>[CV Corosa](https://github.com/big-ai-001/paperList#cv-corosa)
 
->>[社群&分享者](https://github.com/big-ai-001/paperList#社群&分享者)
+>>[社群&分享者](https://github.com/big-ai-001/paperList#社群分享者)
 
 ## MultiModalityPaperList&[VideoList](https://www.youtube.com/playlist?list=PLmSTDGeuJBLRByDQSOypw_8qQTjeAde5z)
 
